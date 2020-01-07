@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'TestProject.wsgi.application'
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'postgres',
-#         'USER': 'django',
-#         'PASSWORD': 'django',
-#         'HOST': '127.0.0.1',
-#         'PORT': '5432',
+#         'NAME': 'proglanglearn_db',
+#         'USER': 'pll_master',
+#         'PASSWORD': 'kN9jutdGK85cn2MLthrp2zrcry2bQrG9CfXbndKTF6gPNW8X32dp8Na2xRr9Z8ygCvHPV6afKWF',
+#         'HOST': 'proglanglearn-database-1.cahphcqcqndw.eu-west-3.rds.amazonaws.com',
+#         'PORT': 5432,
 #     }
 # }
 DATABASES = {
